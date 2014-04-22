@@ -1,4 +1,4 @@
 Microscope
 ==========
 
-Example project based on Discover Meteor book
+Example project based on Discover Meteor book @ DiscoverMeteor.com
