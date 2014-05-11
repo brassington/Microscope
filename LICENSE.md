@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 J. Andrew Brassington, Code originally from Discover Meteor Book
+Copyright (c) 2014 J. Andrew Brassington, Code originally from Discover Meteor Book Copyright Sacha Grief and Tom Coleman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
